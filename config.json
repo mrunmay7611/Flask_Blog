@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql+pymysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/divinediary-Blogging_site",
+    "tw_url":"https://twitter.com/divinediary-Blogging_site",
+    "gh_url": "https://github.com/divinediary-Blogging_site",
+    "blog_name": "Divine Diary",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"divinediary16@gmail.com",
+    "gmail-password":"divinediary16@1234",
+    "about_text": "I created this blog to share my passion for programming and to empower others to learn and master coding. It's a space where beginners to experts can find accessible, practical content and connect with a supportive community. I aim to make learning programming engaging and straightforward. Ultimately, this blog is about contributing to the tech community and helping others succeed in their coding journey.",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"divinediary",
+    "admin_password": "divinediary16",
+    "upload_location":"G:\\Python-Flask-Blog\\static"
+
+
+  }
+
+}
