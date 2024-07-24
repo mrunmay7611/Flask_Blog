@@ -2,8 +2,8 @@
   "params":
   {
     "local_server":"True",
-    "local_uri": "mysql+pymysql://root:@localhost/codingthunder",
-    "prod_uri":"mysql+pymysql://root:@localhost/codingthunder",
+    "local_uri": "mysql+pymysql://root:@0.0.0.0/codingthunder",
+    "prod_uri":"mysql+pymysql://root:@0.0.0.0/codingthunder",
     "fb_url":"https://facebook.com/divinediary-Blogging_site",
     "tw_url":"https://twitter.com/divinediary-Blogging_site",
     "gh_url": "https://github.com/divinediary-Blogging_site",
